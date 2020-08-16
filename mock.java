@@ -14,3 +14,10 @@ String pwd = "Hello world!";
 String password = "Hello world!";
 String nexuspassword = "Hello world!";
 String pass = "Hello world!";
+
+String passwd = "Hello world!";
+
+String cred = "Hello world!";
+String creds = "Hello world!";
+String credentials = "Hello world!";
+String credential = "Hello world!";

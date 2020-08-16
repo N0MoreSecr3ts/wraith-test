@@ -14,3 +14,10 @@ my $pwd = "father";
 my $password = "father";
 my $nexuspassword = "father";
 my $pass = "father";
+
+my $passwd = "father";
+
+my $cred = "father";
+my $creds = "father";
+my $credentials = "father";
+my $credential = "father";

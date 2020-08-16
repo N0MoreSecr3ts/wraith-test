@@ -16,3 +16,10 @@ test:
       password: 'admin'
       pass: 'test123456'
       nexuspassword: 'foobar'
+
+passwd: 'foobar'
+
+cred: 'foobar'
+creds: 'foobar'
+credentials: 'foobar'
+credential: 'foobar'

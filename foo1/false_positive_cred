@@ -1,0 +1,4 @@
+cred := strings.TrimSpace(strings.Split(string(credBytes), "/")[0])
+Creds string
+config.cred = Info.cred
+

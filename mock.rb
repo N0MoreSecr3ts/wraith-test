@@ -54,3 +54,28 @@ $pass = "baz"
 password = "&*(iuhuig%^"
 nexuspassword = "&*(iuhuig%^"
 pass = "&*(iuhuig%^"
+
+$passwd = "baz"
+@passwd = "hijnkml7897089"
+@@passwd = "hkoonbTJ77%#%__jk"
+passwd = "&*(iuhuig%^"
+
+$cred = "baz"
+$creds = "baz"
+$credentials = "baz"
+$credential = "baz"
+
+@cred = "hijnkml7897089"
+@creds = "hijnkml7897089"
+@credentials = "hijnkml7897089"
+@credential = "hijnkml7897089"
+
+@@cred = "hkoonbTJ77%#%__jk"
+@@creds = "hkoonbTJ77%#%__jk"
+@@credentials = "hkoonbTJ77%#%__jk"
+@@credential = "hkoonbTJ77%#%__jk"
+
+cred = "&*(iuhuig%^"
+creds = "&*(iuhuig%^"
+credentials = "&*(iuhuig%^"
+credential = "&*(iuhuig%^"

@@ -31,3 +31,17 @@ pass="baz"
 export password=baz
 export nexuspassword=baz
 export pass=baz
+
+declare passwd="baz"
+passwd="baz"
+
+declare cred="baz"
+declare creds="baz"
+declare credentials="baz"
+declare credential="baz"
+
+cred="baz"
+creds="baz"
+credentials="baz"
+credential="baz"
+

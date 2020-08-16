@@ -1,0 +1,4 @@
+passwd := strings.TrimSpace(strings.Split(string(passwdBytes), "/")[0])
+Passwd string
+config.passwd = Info.Passwd
+

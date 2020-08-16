@@ -25,3 +25,10 @@ let pwd = "foobar";
 var password = "foobar";
 let nexuspassword = "foobar";
 var pass = "foobar";
+
+var passwd = "foobar";
+
+var cred = "foobar";
+var creds = "foobar";
+var credentials = "foobar";
+var credential = "foobar";
