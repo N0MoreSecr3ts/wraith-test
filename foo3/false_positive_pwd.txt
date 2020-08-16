@@ -1,0 +1,5 @@
+// false positives
+pwd := strings.TrimSpace(strings.Split(string(pwdBytes), "/")[0])
+Pwd string
+config.pwd = Info.pwd
+

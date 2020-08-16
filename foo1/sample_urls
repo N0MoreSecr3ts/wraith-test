@@ -1,0 +1,63 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 9088
+
+zen:
+  factoryClass: net.ci.jen.ex2.service.FooFactory
+  baseGithubUrl: https://git.example.com
+  zenGithubUser: github-user
+  githubApiToken: github-token
+    # Choose a logging level from NONE, BASIC, HEADERS, or BODY.
+    # For more information, visit
+    # https://square.github.io/okhttp/3.x/logging-interceptor/okhttp3/logging/HttpLoggingInterceptor.Level.html
+  okHttpLogLevel: BASIC
+
+gitHub:
+  factoryClass: net.ci.jen.ex2.service.RetrofitterGitHubFactory
+  baseUrl: https://git.example.com
+  apiToken: github-token
+  okHttpLogLevel: BASIC
+
+
+nexus:
+  factoryClass: net.ci.jen.ex2.service.NexusFactory
+  nexusUsername: nexus-user
+  nexusPassword: not-a-real-password
+  nexusUrl: https://nexus.example.com/nexus/
+    # Choose a logging level from NONE, BASIC, HEADERS, or BODY.
+    # For more information, visit
+    # https://square.github.io/okhttp/3.x/logging-interceptor/okhttp3/logging/HttpLoggingInterceptor.Level.html
+  okHttpLogLevel: BASIC
+
+artifactoryDevRegistry:
+  factoryClass: net.ci.jen.ex2.service.ArtifactoryFactory
+  username: svc_example
+  password: noT*a/real+PasswRD
+  url: https://someurl.data.example.com/artifactory/
+    # Choose a logging level from NONE, BASIC, HEADERS, or BODY.
+    # For more information, visit
+    # https://square.github.io/okhttp/3.x/logging-interceptor/okhttp3/logging/HttpLoggingInterceptor.Level.html
+  okHttpLogLevel: BASIC
+
+artifactoryRCRegistry:
+  factoryClass: net.ci.jen.p2p.service.ArtifactoryFactory
+  username: zen
+  password: bm90LWEtcmVhbC1wYXNzd29yZA==
+  url: https://testrepo47.example.com/artifactory/
+    # Choose a logging level from NONE, BASIC, HEADERS, or BODY.
+    # For more information, visit
+    # https://square.github.io/okhttp/3.x/logging-interceptor/okhttp3/logging/HttpLoggingInterceptor.Level.html
+  okHttpLogLevel: BASIC
+
+artifactoryExpDevRepository: docker-example-dev
+artifactoryExpRCRepository: docker-example-rc
+artifactoryDevAccessGroups: []
+b2bWhitelistedSubnets: [10.100.100.0/24, 10.200.200.0/24]
+
+logging:
+  appenders:
+    - type: console
+      threshold: DEBUG
+      target: stdout
+      logFormat: "%-5p [%d] %X{correlationId} %c: %m%n%rEx"

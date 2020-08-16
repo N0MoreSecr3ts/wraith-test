@@ -1,0 +1,9 @@
+#
+# False Positives
+#
+
+// false positives
+secret_key := strings.TrimSpace(strings.Split(string(keyBytes), "/")[0])
+secret_key string
+config.secret = Info.SECRET_KEY
+

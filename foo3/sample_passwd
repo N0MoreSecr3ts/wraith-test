@@ -1,0 +1,64 @@
+#
+# golang
+#
+passwd := "foobarbaz"
+var passwd = "foo"
+passwd := 'foo@#$%*__----+=Baz'
+
+#
+# python
+#
+passwd = "john"
+passwd = 'john'
+
+#
+# java
+#
+String passwd = "Hello world!";
+
+#
+# Perl
+#
+my $passwd = "father";
+
+#
+# json
+#
+"passwd": "peter"
+
+#
+# yaml
+#
+passwd: 'foobar'
+
+#
+# javascript
+#
+var passwd = "foobar";
+
+#
+# shell
+#
+declare passwd="baz"
+passwd="baz"
+
+#
+# ruby
+#
+$passwd = "baz"
+@passwd = "hijnkml7897089"
+@@passwd = "hkoonbTJ77%#%__jk"
+passwd = "&*(iuhuig%^"
+
+#
+# swift
+#
+let actualRequest = AdminActionChangePasswordRequest(user: user, newPassword: "LordknowWhat!", failure: API_Test_Helper.failAndRecordApiError, success: successHandler)
+        actualRequest?.start()
+return Environment(clientId: "z9345456dfgvssfnyg", clientSecret: "yCwOynadsfefwegeadsgr", displayName: "Account Backwards", stack: 12)
+
+// false positives
+passwd := strings.TrimSpace(strings.Split(string(passwdBytes), "/")[0])
+Passwd string
+config.passwd = Info.Passwd
+
