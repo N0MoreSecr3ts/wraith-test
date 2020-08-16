@@ -1,0 +1,18 @@
+#
+# yaml
+#
+secret-key: 'foobar'
+customer-key: 'foobar'
+consumer-key: 'foobar'
+
+secret_key: 'foobar'
+customer_key: 'foobar'
+consumer_key: 'foobar'
+
+pwd: 'foobar'
+
+test:
+    secrets:
+      password: 'admin'
+      pass: 'test123456'
+      nexuspassword: 'foobar'
