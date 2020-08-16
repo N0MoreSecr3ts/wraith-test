@@ -32,3 +32,9 @@ var cred = "foobar";
 var creds = "foobar";
 var credentials = "foobar";
 var credential = "foobar";
+
+var auth = "foobar";
+var authorization = "foobar";
+
+var access_key = "AKIAIGTOPSI4SXYCHGHQ";
+let access_key = "AKIAIGTOPSI4SXYCHGHQ";

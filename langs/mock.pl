@@ -21,3 +21,8 @@ my $cred = "father";
 my $creds = "father";
 my $credentials = "father";
 my $credential = "father";
+
+my $access_key = "AKIAIGTOPSI4SXYCHGHQ";
+
+my $auth = "father";
+my $authorization = "father";

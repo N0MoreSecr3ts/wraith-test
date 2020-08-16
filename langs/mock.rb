@@ -79,3 +79,20 @@ cred = "&*(iuhuig%^"
 creds = "&*(iuhuig%^"
 credentials = "&*(iuhuig%^"
 credential = "&*(iuhuig%^"
+
+$auth = "baz"
+$authorization = "baz"
+
+@auth = "hijnkml7897089"
+@authorization = "hijnkml7897089"
+
+@@auth = "hkoonbTJ77%#%__jk"
+@@authorization = "hkoonbTJ77%#%__jk"
+
+auth = "&*(iuhuig%^"
+authorization = "&*(iuhuig%^"
+
+$access_key = "AKIAIGTOPSI4SXYCHGHQ"
+@access_key = "AKIAIGTOPSI4SXYCHGHQ"
+@@access_key = "AKIAIGTOPSI4SXYCHGHQ"
+access_key = "AKIAIGTOPSI4SXYCHGHQ"

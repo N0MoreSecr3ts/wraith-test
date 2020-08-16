@@ -21,3 +21,8 @@ String cred = "Hello world!";
 String creds = "Hello world!";
 String credentials = "Hello world!";
 String credential = "Hello world!";
+
+String access_key = "AKIAIGTOPSI4SXYCHGHQ";
+
+String auth = "Hello world!";
+String authorization = "Hello world!";

@@ -45,3 +45,12 @@ creds="baz"
 credentials="baz"
 credential="baz"
 
+declare access_key="AKIAIGTOPSI4SXYCHGHQ"
+access_key="AKIAIGTOPSI4SXYCHGHQ"
+export access_key=AKIAIGTOPSI4SXYCHGHQ
+
+declare auth="baz"
+declare authorization="baz"
+
+auth="baz"
+authorization="baz"

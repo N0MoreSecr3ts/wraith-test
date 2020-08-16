@@ -23,3 +23,13 @@ cred: 'foobar'
 creds: 'foobar'
 credentials: 'foobar'
 credential: 'foobar'
+
+auth:
+  aws:
+    ACCESS_KEY: AKIAIGTOPSI4SXYCHGHQ
+    ACCESS_KEY: 'AKIAIGTOPSI4SXYCHGHQ'
+    access_key: AKIAIGTOPSI4SXYCHGHQ
+    access_key: 'AKIAIGTOPSI4SXYCHGHQ'
+
+    auth: 'foobar'
+authorization: 'foobar'

@@ -19,3 +19,14 @@
 "creds": "peter"
 "credentials": "peter"
 "credential": "peter"
+
+{
+	"auth": {
+		"aws": {
+			"access_key": "AKIAIGTOPSI4SXYCHGHQ"
+		}
+	}
+}
+
+"auth": "peter"
+"authorization": "peter"

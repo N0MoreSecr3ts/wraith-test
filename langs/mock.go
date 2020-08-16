@@ -59,4 +59,29 @@ func main() {
 	credentials = "foobarbaz"
 	credential = "foobarbaz"
 
+	auth := "foobarbaz"
+	authorization := "foobarbaz"
+
+	var auth98 = "foobarbaz"
+	var authorization4 = "foobarbaz"
+
+	auth = "foobarbaz"
+	authorization = "foobarbaz"
+
+}
+
+func keyAuth("AKIAIGTOPSI4SXYCHGHQ"){
+    access_key := "AKIAIGTOPSI4SXYCHGHQ"
+    var access_key = "AKIAIGTOPSI4SXYCHGHQ"
+    access_key = "AKIAIGTOPSI4SXYCHGHQ"
+    m["access_key"] = "AKIAIGTOPSI4SXYCHGHQ"
+    if access_key == 'AKIAIGTOPSI4SXYCHGHQ' {
+        return true
+    }
+    access_key := [2]string{"AKIAIGTOPSI4SXYCHGHQ", "z9345456dfgvssfnyg"}
+    keys := map[string]int{
+        "key1": "AKIAIGTOPSI4SXYCHGHQ",
+        "key2": "AKIAIJVQDVKHVTFUNLPN",
+        "key3": "AKIAIBOOPSI4SXAHWGHQ",
+    }
 }
