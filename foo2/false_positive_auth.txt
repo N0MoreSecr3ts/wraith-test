@@ -1,0 +1,4 @@
+auth := strings.TrimSpace(strings.Split(string(authBytes), "/")[0])
+auth string
+config.auth = Info.auth
+
