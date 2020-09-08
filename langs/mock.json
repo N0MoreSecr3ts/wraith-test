@@ -1,32 +1,30 @@
-
-"secret-key" = "foobar"
-"customer-key" = "foobar"
-"consumer-key" = "foobar"
-
-"secret_key" = "foobar"
-"customer_key" = "foobar"
-"consumer_key" = "foobar"
-
-"pwd": "peter"
-
-"password": "peter"
-"nexuspassword": "peter"
-"pass": "peter"
-
-"passwd": "peter"
-
-"cred": "peter"
-"creds": "peter"
-"credentials": "peter"
-"credential": "peter"
-
 {
 	"auth": {
 		"aws": {
-			"access_key": "AKIAIGTOPSI4SXYCHGHQ"
+			"access_key": "AKIAIGTOPSI4SXYCHG51"
+		},
+		"general": {
+			"cred": "peter-jsn12",
+			"creds": "peter-jsn13",
+			"credentials": "peter-jsn14",
+			"credential": "peter-jsn15"
+		},
+		"password": {
+			"password": "peter-jsn8",
+			"nexuspassword": "peter-jsn9",
+			"pass": "peter-jsn10"
+		},
+		"random": {
+			"secret_key": "foobar-jsn4",
+			"customer_key": "foobar-jsn5",
+			"consumer_key": "foobar-jsn6",
+			"pwd": "peter-jsn7",
+			"passwd": "peter-jsn11"
+		},
+		"customer-keys": ["foobar - jsn1", "foobar - jsn2", "foobar - jsn3"],
+		"auth": {
+			"auth": "peter-jsn16",
+			"authorization": "peter-jsn17"
 		}
 	}
 }
-
-"auth": "peter"
-"authorization": "peter"

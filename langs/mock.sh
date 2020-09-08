@@ -35,22 +35,22 @@ export pass=baz
 declare passwd="baz"
 passwd="baz"
 
-declare cred="baz"
-declare creds="baz"
-declare credentials="baz"
-declare credential="baz"
+declare cred="baz1"
+declare creds="baz2"
+declare credentials="baz3"
+declare credential="baz4"
 
-cred="baz"
-creds="baz"
-credentials="baz"
-credential="baz"
+cred="baz5"
+creds="ba6z"
+credentials="baz7"
+credential="baz8"
 
-declare access_key="AKIAIGTOPSI4SXYCHGHQ"
-access_key="AKIAIGTOPSI4SXYCHGHQ"
-export access_key=AKIAIGTOPSI4SXYCHGHQ
+declare access_key="AKI78GTOPSI4SXYCHGHQ"
+access_key="AKIAIGTOPSI31XYCHGHQ"
+export access_key=AKIAI97OPSI4SXYCHGHQ
 
-declare auth="baz"
-declare authorization="baz"
+declare auth="baz44"
+declare authorization="baz11"
 
-auth="baz"
-authorization="baz"
+auth="baz22"
+authorization="baz33"
