@@ -1,35 +1,25 @@
-#
-# yaml
-#
-secret-key: 'foobar66'
-customer-key: 'foobar55'
-consumer-key: 'foobar44'
-
-secret_key: 'foobar33'
-customer_key: 'foobar12'
-consumer_key: 'foobar11'
-
-pwd: 'foobar9'
-
-test:
-    secrets:
-      password: 'admin8'
-      pass: 'test1234567'
-      nexuspassword: 'foobar6'
-
-passwd: 'foobar5'
-
-cred: 'foobar4'
-creds: 'foobar3'
-credentials: 'foobar2'
-credential: 'foobar1'
-
-auth:
-  aws:
-    ACCESS_KEY: AKIAIGTOPSI4S5YCHGHQ
-    ACCESS_KEY: 'AKIAIGTOP7I4SXYCHGHQ'
-    access_key: AKIAIGTOPS24SXYCHGHQ
-    access_key: 'AKIAIGTOP1I4SXYCHGHQ'
-
-    auth: 'foobar34'
-authorization: 'foobar78'
+--- 
+  auth: 
+    aws: 
+      ACCESS_KEY: AKIAIGTOPSI4S5YCHGHQ
+      access_key: AKIAIGTOP1I4SXYCHGHQ
+      auth: foobar34
+  authorization: foobar78
+  consumer-key: foobar44
+  consumer_key: foobar11
+  cred: foobar4
+  credential: foobar1
+  credentials: foobar2
+  creds: foobar3
+  customer-key: foobar55
+  customer_key: foobar12
+  passwd: foobar5
+  pwd: foobar9
+  secret-key: foobar66
+  secret_key: foobar33
+  test: 
+    secrets: 
+      nexuspassword: foobar6
+      pass: test1234567
+      password: admin8
+  

@@ -1,39 +1,39 @@
 #
 # shell
 #
-declare secret-key="baz"
-declarecustomer-key := "baz"
-declareconsumer-key := "baz"
+declare secret-key="baz-sh60"
+declarecustomer-key := "baz-sh61"
+declareconsumer-key := "baz-sh62"
 
-declare secret_key="baz"
-declare customer_key := "baz"
-declare consumer_key := "baz"
+declare secret_key="baz-sh64"
+declare customer_key := "baz-sh63"
+declare consumer_key := "baz-sh65"
 
-secret-key="baz"
-customer-key := "baz"
-consumer-key := "baz"
+secret-key="baz-sh66"
+customer-key := "baz-sh67"
+consumer-key := "baz-sh68"
 
-secret_key="baz"
-customer_key := "baz"
-consumer_key := "baz"
+secret_key="baz-sh69"
+customer_key := "baz-sh70"
+consumer_key := "baz-sh71"
 
-declare pwd="baz"
-pwd="baz"
+declare pwd="baz-sh72"
+pwd="baz-sh73"
 
-declare password="baz"
-declare nexuspassword="baz"
-declare pass="baz"
+declare password="baz-sh74"
+declare nexuspassword="baz-sh75"
+declare pass="baz-sh76"
 
-password="baz"
-nexuspassword="baz"
-pass="baz"
+password="baz-sh77"
+nexuspassword="baz-sh78"
+pass="baz-sh79"
 
-export password=baz
-export nexuspassword=baz
-export pass=baz
+export password=baz-sh80
+export nexuspassword=baz-sh81
+export pass=baz-sh82
 
-declare passwd="baz"
-passwd="baz"
+declare passwd="baz-sh83"
+passwd="baz-sh84"
 
 declare cred="baz1"
 declare creds="baz2"
